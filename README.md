@@ -38,9 +38,8 @@ An archive full of iOS IPA files.
 | 13 | Fortnite+Release-13.40-CL-14050091 | https://rebrand.ly/1340CL14050091 |
 
 # Builds with -skippatchcheck
-| Season | Build | Download |
 | :---: | ----------- | ----------- | 
-| 11 |  | [Already made Skip patch vers](https://drive.google.com/drive/folders/1QNtbjcFWLLdWGzjqdAERFlFtbRJkTSGm?usp=sharing) |
+| The Doc |  | [Already made Skip patch vers](https://drive.google.com/drive/folders/1QNtbjcFWLLdWGzjqdAERFlFtbRJkTSGm?usp=sharing) |
 
 # Alternative Link
 The direct link to all iOS builds is [here.](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc?usp=share_link "Crunnie's iOS Archive")
