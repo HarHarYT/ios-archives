@@ -40,7 +40,7 @@ An archive full of iOS IPA files.
 # Builds with -skippatchcheck
 | Season | Build | Download |
 | :---: | ----------- | ----------- | 
-| 11 | Fortnite+Release-11.31-CL-10805056 | https://drive.google.com/file/d/1apUtK18bwQoJFEXEV4WMPdKjL3n8SJiC/view?usp=sharing |
+| 11 |  | [Already made Skip patch vers](https://drive.google.com/drive/folders/1QNtbjcFWLLdWGzjqdAERFlFtbRJkTSGm?usp=sharing) |
 
 # Alternative Link
 The direct link to all iOS builds is [here.](https://drive.google.com/drive/folders/1-AE3T3YKpp5-KVZ-w38PtFm19Hj4G0pc?usp=share_link "Crunnie's iOS Archive")
